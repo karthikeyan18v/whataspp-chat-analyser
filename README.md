@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WhatsApp Chat Analyzer
 
 A full-stack application to analyze WhatsApp group chat exports and visualize user activity patterns.
@@ -91,3 +92,7 @@ WhatsApp chat export format:
 ## License
 
 MIT
+=======
+# whataspp-chat-analyser
+A web-based analytics tool that parses exported WhatsApp group chat files and generates insightful, day-wise visualizations for group activity.
+>>>>>>> c6db3d98dffd2ded4ae1dcd438fdedb9885b5915
