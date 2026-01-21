@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+   "type": "module", 
+  "scripts": {
+   "dev": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.19",
+    "express": "^5.2.1"
+  }
+}
